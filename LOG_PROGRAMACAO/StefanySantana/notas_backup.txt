@@ -1,0 +1,4 @@
+Estas são minhas notas importantes.
+Linha 1: Estudar Python.
+Linha 2: Fazer backup regularmente.
+Linha 3: Testar o script de backup.

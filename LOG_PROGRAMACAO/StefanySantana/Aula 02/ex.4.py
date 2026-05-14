@@ -1,0 +1,5 @@
+print("Bem-Vindo ao Mercado SENAI!!! \n")
+print("Cupom fiscal do cliente \n")
+input("Digite seu produto: \n" )
+qtde = float(input("Digite a quantidade: \n " ))
+valor = float(print("Digite o valor: \n "  ))

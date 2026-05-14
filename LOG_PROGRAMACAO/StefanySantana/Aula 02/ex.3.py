@@ -1,0 +1,7 @@
+print("Bem-Vindo a nossa calculadora!")
+n1 = int(input("Digite o primeiro valor: \n" ))
+n2 = int(input("Digite o  segundo valor \n" ))
+print("A soma dos valores: \n" , n1 + n2)
+print("A subtração dos valores: \n" , n1 - n2)
+print("A multiplicação dos valores: \n" , n1 * n2)
+print("A divisão dos valores: \n" , n1 / n2)
