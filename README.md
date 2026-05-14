@@ -1,17 +1,4 @@
-# 1TERMO
-Material de Aula - LOPAL//LER//SOP//ARI
 
-# LOPAL
-Linguagem de programação 
-
-## SOP
-Sistemas operacionais Linux , Windows , e IOS
-
-# Planejamento Integrado de Disciplinas de Tecnologia
-
-Este repositório armazena os planos de aula, códigos-fonte, diagramas e materiais de suporte para quatro disciplinas fundamentais da área de desenvolvimento de software e infraestrutura de TI.
-
----
 
 ## 🗂️ Visão Geral das Disciplinas
 
