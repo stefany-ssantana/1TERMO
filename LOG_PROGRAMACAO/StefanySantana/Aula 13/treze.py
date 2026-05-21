@@ -70,7 +70,7 @@
 
 # app.mainloop()
 
-# Exercício: Crie uma interface gráfica que calcule a média de três notas digitadas pelo usuário. A interface deve conter campos para o usuário inserir as notas e um botão para calcular a média. Ao clicar no botão, a média deve ser exibida em uma mensagem.import tkinter as tk
+# Exercício: Crie uma interface gráfica que calcule a média de três notas digitadas pelo usuário. A interface deve conter campos para o usuário inserir as notas e um botão para calcular a média. Ao clicar no botão, a média deve ser exibida em uma mensagem.import tkinter as tk.
 
 import tkinter as tk
 from tkinter import messagebox
